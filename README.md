@@ -1,5 +1,9 @@
+# Tentang Saya
+Nama    : Erika Amanda Salia Rumopa
+NIM     : 19.11.2811
+
 # Studi Kasus
-Aplikasi keranjang dimana user dapat menambah atau menghapus item.
+Aplikasi keranjang dimana user dapat menambah atau menghapus item, juga mendapatkan potongan harga.
 
 # Kegunaan
 User dapat memilih item untuk dimasukkan kedalam keranjang
